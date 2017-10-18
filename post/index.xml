@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on resume</title>
+    <link>https://northking2016.github.io/post/</link>
+    <description>Recent content in Posts on resume</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 17 Oct 2017 21:05:56 -0500</lastBuildDate>
+    
+	<atom:link href="https://northking2016.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>https://northking2016.github.io/post/first/</link>
+      <pubDate>Tue, 17 Oct 2017 21:05:56 -0500</pubDate>
+      
+      <guid>https://northking2016.github.io/post/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
