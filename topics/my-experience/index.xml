@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>resume</title>
-    <link>https://northking2016.github.io/</link>
-    <description>Recent content on resume</description>
+    <title>My Experience on resume</title>
+    <link>https://northking2016.github.io/topics/my-experience/</link>
+    <description>Recent content in My Experience on resume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
     <lastBuildDate>Tue, 17 Oct 2017 21:31:07 -0500</lastBuildDate>
     
-	<atom:link href="https://northking2016.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://northking2016.github.io/topics/my-experience/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,24 +19,6 @@
       
       <guid>https://northking2016.github.io/post/my-research-interests/</guid>
       <description>As a professional statistical student, I have a strong interest in the following statistics fields: financial statistics, machine learning, big data.</description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>https://northking2016.github.io/post/first/</link>
-      <pubDate>Tue, 17 Oct 2017 21:05:56 -0500</pubDate>
-      
-      <guid>https://northking2016.github.io/post/first/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://northking2016.github.io/about/</link>
-      <pubDate>Tue, 17 Oct 2017 21:04:23 -0500</pubDate>
-      
-      <guid>https://northking2016.github.io/about/</guid>
-      <description>here is a title</description>
     </item>
     
   </channel>
