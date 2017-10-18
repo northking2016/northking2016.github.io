@@ -1,50 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://northking2016.github.io/post/my-research-interests/</loc>
-    <lastmod>2017-10-17T21:31:07-05:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://northking2016.github.io/post/my-research-interests/</loc>
+      <lastmod>2017-10-17T21:31:07-05:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://northking2016.github.io/about/</loc>
-    <lastmod>2017-10-17T21:04:23-05:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://northking2016.github.io/about/</loc>
+      <lastmod>2017-10-17T21:04:23-05:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://northking2016.github.io/tags/2017-10/</loc>
-    <lastmod>2017-10-17T21:31:07-05:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://northking2016.github.io/tags/2017-10/</loc>
+      <lastmod>2017-10-17T21:31:07-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://northking2016.github.io/topics/my-experience/</loc>
-    <lastmod>2017-10-17T21:31:07-05:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://northking2016.github.io/</loc>
+      <lastmod>2017-10-17T21:31:07-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://northking2016.github.io/post/</loc>
-    <lastmod>2017-10-17T21:31:07-05:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://northking2016.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://northking2016.github.io/tags/</loc>
-    <lastmod>2017-10-17T21:31:07-05:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://northking2016.github.io/post/</loc>
+      <lastmod>2017-10-17T21:31:07-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://northking2016.github.io/topics/</loc>
-    <lastmod>2017-10-17T21:31:07-05:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://northking2016.github.io/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://northking2016.github.io/</loc>
-    <lastmod>2017-10-17T21:31:07-05:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://northking2016.github.io/tags/</loc>
+      <lastmod>2017-10-17T21:31:07-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>
