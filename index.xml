@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 17 Oct 2017 21:05:56 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2017 21:31:07 -0500</lastBuildDate>
     
 	<atom:link href="https://northking2016.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Research Interests</title>
+      <link>https://northking2016.github.io/post/my-research-interests/</link>
+      <pubDate>Tue, 17 Oct 2017 21:31:07 -0500</pubDate>
+      
+      <guid>https://northking2016.github.io/post/my-research-interests/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>First</title>
